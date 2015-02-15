@@ -10,6 +10,7 @@ Fully implemented
 
 * true
 * false
+* echo
 
 License
 -------
