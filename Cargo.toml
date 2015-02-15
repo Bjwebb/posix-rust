@@ -1,0 +1,17 @@
+[package]
+
+name = "posix-rust"
+version = "0.0.0"
+authors = [ "Ben Webb" ]
+
+[[bin]]
+
+name = "echo"
+
+[[bin]]
+
+name = "true"
+
+[[bin]]
+
+name = "false"
