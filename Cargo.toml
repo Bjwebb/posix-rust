@@ -15,3 +15,9 @@ name = "true"
 [[bin]]
 
 name = "false"
+
+[[bin]]
+
+# Does not yet implement all options
+
+name = "pwd"
