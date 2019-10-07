@@ -1,3 +1,3 @@
 fn main() {
-    std::env::set_exit_status(0);
+    std::process::exit(0);
 }
